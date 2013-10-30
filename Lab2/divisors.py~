@@ -10,4 +10,5 @@ def divisors2():
 			print num
 
 if __name__ == "__main__":
+	divisors1()
 	divisors2()
