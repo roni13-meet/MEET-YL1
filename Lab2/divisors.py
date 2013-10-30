@@ -9,5 +9,10 @@ def divisors2():
 		if n % num == 0:	
 			print num
 
+def divisors3(n):
+	for num in xrange(1,n):
+		if n % num == 0:	
+			print num
+
 if __name__ == "__main__":
-	divisors2()
+	divisors3(100)
