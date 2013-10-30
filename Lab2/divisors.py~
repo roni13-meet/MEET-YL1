@@ -15,4 +15,4 @@ def divisors3(n):
 			print num
 
 if __name__ == "__main__":
-	divisors3(20)
+	divisors3(100)
